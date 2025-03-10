@@ -64,6 +64,7 @@ const tileOptions = [
   'Cannabinoid Hyperemesis Syndrome (CHS) mentioned',
   'You shared',
   'You read a reading',
+  'You participated in chat',
 ]
 
 function generateCard() {
