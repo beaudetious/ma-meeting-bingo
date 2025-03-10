@@ -60,7 +60,10 @@ const tileOptions = [
   'Praying emoji / hand gesture is shared',
   'Common withdrawal symptom is shared',
   'Nodding in agreement',
-  'Video is on, chair is empty'
+  'Video is on, chair is empty',
+  'Cannabinoid Hyperemesis Syndrome (CHS) mentioned',
+  'You shared',
+  'You read a reading',
 ]
 
 function generateCard() {
