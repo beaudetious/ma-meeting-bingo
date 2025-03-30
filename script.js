@@ -65,6 +65,7 @@ const tileOptions = [
   'You shared',
   'You read a reading',
   'You participated in chat',
+  'Claim my chair/spot/square',
 ]
 
 function generateCard() {
